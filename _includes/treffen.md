@@ -1,6 +1,6 @@
 ## Treffen
 
-Wir treffen uns meistens am letzten Mittwoch des Monats im [muCCC](https://muc.ccc.de) ([Schleißheimer Str. 41](https://osm.org/go/0JAf0IVLh?node=2012031859)). 
+Wir treffen uns am letzten Mittwoch des Monats **29.08.2018 20 UHR** im [muCCC](https://muc.ccc.de) ([Schleißheimer Str. 41](https://osm.org/go/0JAf0IVLh?node=2012031859)). 
 
 **Und Neu:** 2 Wochen + 1 Tag später am Donnerstag im ["404 Page not found"](http://viernullvier.net/) Cafe in der ([Corneliusstr. 2](https://www.openstreetmap.org/#map=19/48.13272/11.57425))
 
